@@ -1,5 +1,4 @@
 # Fitness_Club
-# Fitness Club Management System
 <br/>
 Motivation: -<br/>
 Fitness is foremost for anyone and hence gyms have become an important part of our lives. There are around 23 million searches on Google everyday for fitness centers but sadly about 
@@ -21,7 +20,7 @@ To run this project :
 
 Clone the project -<br/>
 <pre>
-$ git clone https://github.com/sasikgoundar/Fitness_Club.git
+$ git clone https://github.com/Swapnil0506/Fitness_Club.git
 </pre>
 Go to the Project(master branch)-<br/>
 <pre>
