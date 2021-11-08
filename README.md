@@ -1,6 +1,6 @@
 # Fitness_Club
 <br/>
-<img src="This PC/Pictures/Saved Pictures/homepage1.png" height="200" width="200">
+<img src="https://user-images.githubusercontent.com/59622008/140747862-15a79bad-151a-4d54-9faa-372b23e3a4b1.png" height="500" width="1600">
 Motivation: -<br/>
 Fitness is foremost for anyone and hence gyms have become an important part of our lives. There are around 23 million searches on Google everyday for fitness centers but sadly about 
 96% of fitness outlets in India are unorganized, i.e, they dont have an app or a website.<br/>
