@@ -1,12 +1,13 @@
 # Fitness_Club
 <br/>
 <img src="https://user-images.githubusercontent.com/59622008/140747862-15a79bad-151a-4d54-9faa-372b23e3a4b1.png" height="500" width="1600">
+<img src="https://user-images.githubusercontent.com/59622008/140754162-96d223c0-8d79-4193-acf0-83951f9c9008.png" height="500" width="1600">
 Motivation: -<br/>
 Fitness is foremost for anyone and hence gyms have become an important part of our lives. There are around 23 million searches on Google everyday for fitness centers but sadly about 
 96% of fitness outlets in India are unorganized, i.e, they dont have an app or a website.<br/>
 Such small-scale fitness clubs & gyms have to face a lot of problems in order to become a bigger and a better brand.<br/><br/>
 Therefore, we have come up with some solutions such as: -
-<br/><br/>
+<br/><br/> 
 - Members can create account and view/update their profile status accordingly.<br/>
 - They can book for a free trial<br/>
 - They can choose their fitness category and membership type.<br/>
